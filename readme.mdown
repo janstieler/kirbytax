@@ -14,12 +14,7 @@ You can find a demo with dummy data over here: <http://tax.getkirby.com>
 
 **Don't put this on a server and add real data!! There's no protection built-in! All visitors will be able to see your invoices and how much you've earned. THIS IS INTENDED TO BE USED ON YOUR LOCAL MACHINE!**
 
-**The core files of the Kirby CMS are not included!**
-
-After extracting all files, please download the latest version of the Kirby CMS <https://github.com/bastianallgeier/kirbycms/zipball/master> and add the kirby folder to your tax folder. 
-
-For more installation instructions, please read the Kirby CMS Docs: <http://getkirby.com/docs> 
-
+It's a default Kirby CMS installation, so please follow the instructions in the Kirby CMS Docs: <http://getkirby.com/docs> 
 
 ## License 
 
