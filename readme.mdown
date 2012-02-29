@@ -4,7 +4,7 @@ This is a very simple invoice and tax admin tool, based on Kirby CMS <http://get
 
 ## Alpha 
 
-This is a very basic alpha. Please read more about it in the Kirby Blog <http://getkirby.com/blog>
+This is a very basic alpha. Please read more about it in the Kirby Blog <http://getkirby.com/blog/tax-admin>
 
 ## Demo
 
