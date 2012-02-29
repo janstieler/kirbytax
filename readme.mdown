@@ -20,3 +20,7 @@ After extracting all files, please download the latest version of the Kirby CMS 
 
 For more installation instructions, please read the Kirby CMS Docs: <http://getkirby.com/docs> 
 
+
+## License 
+
+This is licensed under the MIT License: <http://www.opensource.org/licenses/mit-license.php>
