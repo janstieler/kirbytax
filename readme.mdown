@@ -1,0 +1,22 @@
+#Kirby Tax Admin Package
+
+This is a very simple invoice and tax admin tool, based on Kirby CMS <http://getkirby.com>
+
+## Alpha 
+
+This is a very basic alpha. Please read more about it in the Kirby Blog <http://getkirby.com/blog>
+
+## Demo
+
+You can find a demo with dummy data over here: <http://tax.getkirby.com>
+
+## Installation
+
+**Don't put this on a server and add real data!! There's no protection built-in! All visitors will be able to see your invoices and how much you've earned. THIS IS INTENDED TO BE USED ON YOUR LOCAL MACHINE!**
+
+**The core files of the Kirby CMS are not included!**
+
+After extracting all files, please download the latest version of the Kirby CMS <https://github.com/bastianallgeier/kirbycms/zipball/master> and add the kirby folder to your tax folder. 
+
+For more installation instructions, please read the Kirby CMS Docs: <http://getkirby.com/docs> 
+
